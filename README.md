@@ -1,3 +1,8 @@
+### 숙제
+* https://github.com/gitJaesik/cpp/blob/master/Hello_World/main2_from_sml.cpp 의 코드를 보고 변경 된 부분이 어떻게 변경되었는지 comment 남겨주세요 :)
+* PrintBoard와 Render함수를 합쳐주세요!
+
+
 20180512 Homework
 
 지금까지 배운 것
